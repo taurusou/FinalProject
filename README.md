@@ -138,7 +138,7 @@ Other commands:
 ## Run the tests
 
 ```bash
-./build/runtests/test_rank     # if the CMake puts tests here
+./build/runtests/test_rank    
 ```
 
 ## 3) How **Leaderboard.cpp** Works (main functions)
