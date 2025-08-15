@@ -1,0 +1,2 @@
+/usr/bin/ar qc libbst_rbt.a CMakeFiles/bst_rbt.dir/code/BST.cpp.o CMakeFiles/bst_rbt.dir/code/RBT.cpp.o CMakeFiles/bst_rbt.dir/code/Leaderboard.cpp.o
+/usr/bin/ranlib libbst_rbt.a

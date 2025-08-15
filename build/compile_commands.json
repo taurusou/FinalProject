@@ -1,0 +1,27 @@
+[
+{
+  "directory": "/home/jovyan/Final_Project_RBT/build",
+  "command": "/usr/bin/c++  -I/home/jovyan/Final_Project_RBT/code -std=gnu++17 -o CMakeFiles/bst_rbt.dir/code/BST.cpp.o -c /home/jovyan/Final_Project_RBT/code/BST.cpp",
+  "file": "/home/jovyan/Final_Project_RBT/code/BST.cpp"
+},
+{
+  "directory": "/home/jovyan/Final_Project_RBT/build",
+  "command": "/usr/bin/c++  -I/home/jovyan/Final_Project_RBT/code -std=gnu++17 -o CMakeFiles/bst_rbt.dir/code/RBT.cpp.o -c /home/jovyan/Final_Project_RBT/code/RBT.cpp",
+  "file": "/home/jovyan/Final_Project_RBT/code/RBT.cpp"
+},
+{
+  "directory": "/home/jovyan/Final_Project_RBT/build",
+  "command": "/usr/bin/c++  -I/home/jovyan/Final_Project_RBT/code -std=gnu++17 -o CMakeFiles/bst_rbt.dir/code/Leaderboard.cpp.o -c /home/jovyan/Final_Project_RBT/code/Leaderboard.cpp",
+  "file": "/home/jovyan/Final_Project_RBT/code/Leaderboard.cpp"
+},
+{
+  "directory": "/home/jovyan/Final_Project_RBT/build",
+  "command": "/usr/bin/c++  -I/home/jovyan/Final_Project_RBT/code -std=gnu++17 -o CMakeFiles/app.dir/app/main.cpp.o -c /home/jovyan/Final_Project_RBT/app/main.cpp",
+  "file": "/home/jovyan/Final_Project_RBT/app/main.cpp"
+},
+{
+  "directory": "/home/jovyan/Final_Project_RBT/build",
+  "command": "/usr/bin/c++  -I/home/jovyan/Final_Project_RBT/code -std=gnu++17 -o CMakeFiles/test_rank.dir/tests/test_rank.cpp.o -c /home/jovyan/Final_Project_RBT/tests/test_rank.cpp",
+  "file": "/home/jovyan/Final_Project_RBT/tests/test_rank.cpp"
+}
+]

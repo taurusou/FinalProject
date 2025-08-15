@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/app.dir/app/main.cpp.o -o app  libbst_rbt.a 

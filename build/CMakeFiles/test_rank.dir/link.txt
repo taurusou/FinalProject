@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/test_rank.dir/tests/test_rank.cpp.o -o runtests/test_rank  libbst_rbt.a 
